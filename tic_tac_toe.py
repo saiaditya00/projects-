@@ -3,7 +3,7 @@
     
 
 def display_board(board):
-      # Remember, this only works in jupyter!
+      
     
     print('   |   |')
     print(' ' + board[7] + ' | ' + board[8] + ' | ' + board[9])
